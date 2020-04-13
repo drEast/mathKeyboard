@@ -14,7 +14,7 @@ java/feuerkoenig/mathKeyboard/sampleActivity.java   Activity to display the keyb
 java/feuerkoenig/mathKeyboard/Keyboard.java         Logic behind the keyboard to input / delete symbols and display the formula \
 
 XML files: \
-mathKeyboard/res/drawable-v24/...                   Graphic design for the keyboard buttons \
+mathKeyboard/res/drawable-v24/...               &ensp;    Graphic design for the keyboard buttons \
 mathKeyboard/res/layout/activity_sample.xml         Activity to display the keyboard \
 mathKeyboard/res/layout/keyboard.xml                Keyboard layout with button alignment \
 mathKeyboard/res/values/colors.xml                  Color theme of the app and buttons \
