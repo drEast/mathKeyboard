@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="kb_bt_fg">#000000</color>
+    <color name="kb_bt_bg">#3d3d3d</color>
+    <color name="kb_bt_tx">#FFFFFF</color>
+    <color name="kb_bt_fg2">#1d1d1d</color>
+    <color name="kb_bt_fg_lit">#3d3d3d</color>
+    <color name="kb_bt_fg2_lit">#464646</color>
+    <color name="kb_ch_fg1">#033300</color>
+    <color name="kb_ch_fg2">#044500</color>
+    <color name="kb_ch_fg1_lit">#044500</color>
+    <color name="kb_ch_fg2_lit">#066300</color>
+</resources>
