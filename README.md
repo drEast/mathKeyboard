@@ -1,8 +1,8 @@
 # mathKeyboard
 With this keyboard you can input mathematical formulas in your Android app to LaTEX format:
 
-![alt text](https://github.com/drEast/mathKeyboard/blob/master/sample_image_01.png)
-![alt text](https://github.com/drEast/mathKeyboard/blob/master/sample_image_02.png)
+![alt text](https://github.com/drEast/mathKeyboard/blob/master/sample_image_01.png =300x)
+![alt text](https://github.com/drEast/mathKeyboard/blob/master/sample_image_02.png =300x)
 
 I created this keyboard for my Android app [Derivate Quiz](https://play.google.com/store/apps/details?id=appleitung.feuerkoenig.appleitung), since I was not able to find an easy and elegant way to input formulas to a displayable format.
 
