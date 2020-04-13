@@ -9,11 +9,11 @@ I created this keyboard for my Android app [Derivate Quiz](https://play.google.c
 In order to save you the hustle, I uploaded the keyboard with a sample activity. Please, feel free to use or expand any part of it.
 
 ## Usage
-Java files:
+Java files: \
 java/feuerkoenig/mathKeyboard/sampleActivity.java   Activity to display the keyboard \
 java/feuerkoenig/mathKeyboard/Keyboard.java         Logic behind the keyboard to input / delete symbols and display the formula \
 
-XML files:
+XML files: \
 mathKeyboard/res/drawable-v24/...                   Graphic design for the keyboard buttons \
 mathKeyboard/res/layout/activity_sample.xml         Activity to display the keyboard \
 mathKeyboard/res/layout/keyboard.xml                Keyboard layout with button alignment \
