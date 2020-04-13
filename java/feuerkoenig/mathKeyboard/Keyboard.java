@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import io.github.kexanie.library.MathView;
 
 public class Keyboard extends LinearLayout implements View.OnClickListener{
-    //
+
     private MathView mv_formula;
 
     // Lists to store symbols left and right of the cursor
